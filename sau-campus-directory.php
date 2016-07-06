@@ -1,12 +1,14 @@
 <?php
 /*
 Plugin Name: SAU Magnolia Campus Directory
-Plugin URI: http://web.saumag.edu/directory/category/college-of-business
+Plugin URI: https://github.com/joshjenkinsAR/campus-directory
 Description: Displays the directory information in a custom template
-Version: 1.0.1a
-Author: Curtiss Grymala and Shelley Keith
-Author URI: http://ten-321.com
+Version: 1.0.2
+Author: Josh Jenkins, Curtiss Grymala, Shelley Keith
+Author URI: http://www.joshdjenkins.com
 License: GPL2
+GitHub Plugin URI: https://github.com/joshjenkinsAR/campus-directory
+GitHub Branch: master
 */
 
 if ( ! class_exists( 'SAU_Campus_Directory' ) )

@@ -32,21 +32,19 @@ span.departments {
 	list-style: none;
 }
 .one-third { width: 30% !important; }
-
- .alpha-list {
-	column-rule: 1px dotted #e2e2e2;
-	column-gap: 1em;
-	-webkit-column-count: 3;   
-     -moz-column-count: 3;   
-          column-count: 3;        
-	-webkit-column-rule: 1px dotted #e2e2e2;
-	-webkit-column-gap: 1em;
-	
-	-moz-column-rule: 1px dotted #e2e2e2;
-	-moz-column-gap: 1em;
-	
-	-o-column-rule: 1px dotted #e2e2e2;
-	-o-column-gap: 1em;
+.alpha-letter h2 {    font-size: 40px;    font-family: 'Roboto Slab' !important;    color: #999 !important;    border-bottom: 1px solid #e9e9e9;}
+ .letter-list {
+	column-rule: 1px dotted #e2e2e2;
+	column-gap: 3em;
+	-webkit-column-count: 4;   
+    -moz-column-count: 4;   
+    column-count: 4;        
+	-webkit-column-rule: 1px dotted #e2e2e2;
+	-webkit-column-gap: 3em;
+	-moz-column-rule: 1px dotted #e2e2e2;
+	-moz-column-gap: 3em;
+	-o-column-rule: 1px dotted #e2e2e2;
+	-o-column-gap: 3em;	padding-left: 10%;
 } 
 
 /* @=Single Entry Styles
